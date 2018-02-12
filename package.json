@@ -1,0 +1,12 @@
+{
+    "name": "service-result",
+    "version": "0.0.1",
+    "main": "./index.js",
+    "types": "./index.d.ts",
+    "scripts": {
+        "build": "tsc"
+    },
+    "devDependencies": {
+        "typescript": "^2.7.1"
+    }
+}
